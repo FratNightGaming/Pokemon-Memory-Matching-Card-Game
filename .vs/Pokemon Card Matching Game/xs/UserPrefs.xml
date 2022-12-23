@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E0125F7A-8F7F-DFE0-99E9-0E005179697C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/InstantiatePokemon.cs" Line="24" Column="25" />
+      <File FileName="Assets/_Scripts/GameManager.cs" Line="14" Column="16" />
+      <File FileName="Assets/_Scripts/Parallax.cs" Line="91" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pokemon Card Matching Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Scripts" expanded="True">
+                <Node name="GameManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8d2b92c2-c4cd-4361-a135-4c2f8ce0b426" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
